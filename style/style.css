@@ -1,0 +1,16 @@
+img {
+  border-radius: 50%;
+  cursor: pointer;
+}
+section {
+  border-width: 1px;
+  border-color: rgb(189, 100, 100);
+  border-style: solid;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 8px;
+  background-image: url(background.png);
+}
+body {
+  text-align: center;
+}
