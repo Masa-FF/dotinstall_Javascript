@@ -18,6 +18,7 @@
 
     function process(){
       document.getElementById('target').textContent = '小田急 快速急行の車内から';
+      document.getElementById('trigger').classList.add('icon-changed');
     }
 
     document.getElementById('trigger').addEventListener('click', process);

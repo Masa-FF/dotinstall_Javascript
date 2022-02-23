@@ -1,8 +1,14 @@
 img {
   border-radius: 50%;
   cursor: pointer;
+  transition: border-radius .5s;
 }
-section {
+
+.icon-changed{
+  border-radius: 0;
+}
+
+  section {
   border-width: 1px;
   border-color: rgb(189, 100, 100);
   border-style: solid;
