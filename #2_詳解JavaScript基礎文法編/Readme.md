@@ -1,5 +1,5 @@
-ドットインストール<br>
-#2 詳解JavaScript 基礎文法編<br>
+#ドットインストール<br>
+## #2 詳解JavaScript 基礎文法編<br>
 
 #01 JavaScriptを学ぼう<br>
 #02 はじめてのJavaScript<br>
