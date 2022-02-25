@@ -1,5 +1,5 @@
-ドットインストール<br>
-#1 はじめての Javascript<br>
+# ドットインストール<br>
+## #1 はじめての Javascript<br>
 2022/02/22 　はじめての Javascript 　#1 ～#5<br>
 2022/02/23 　はじめての Javascript 　#5 ～#8<br>
 
