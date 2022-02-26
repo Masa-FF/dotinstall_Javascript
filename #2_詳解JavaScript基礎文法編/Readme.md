@@ -17,4 +17,4 @@
 #14 条件演算子を使ってみよう<br>
 #15 論理演算子を使ってみよう<br>
 
-https://dotinstall.com/lessons/basic_javascript_grammer_v2/52202
+https://dotinstall.com/lessons/basic_javascript_grammer_v2/52216
