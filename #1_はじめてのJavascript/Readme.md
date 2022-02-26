@@ -1,5 +1,6 @@
 # ドットインストール<br>
 ## #1 はじめての Javascript<br>
+https://dotinstall.com/lessons/basic_javascript_v5/58501
 
 #01 Webサイトに動きをつけてみよう<br>
 #02 JavaScriptを書いていこう<br>
@@ -9,5 +10,3 @@
 #06 textContentでテキストを設定しよう<br>
 #07 スタイルを変化させてみよう<br>
 #08 classListでクラスを操作しよう<br>
-
-https://dotinstall.com/lessons/basic_javascript_v5/58505
