@@ -70,3 +70,34 @@ console.log(price !== 1000); //true
 
 console.log(Boolean(0));
 console.log(Boolean('Hello'));
+
+const score = 85;
+if (score >= 80){
+  console.log('GREAT!');
+} else if (score >= 60){
+  console.log('GOOD');
+} else {
+  console.log('OK...');
+} 
+  
+//条件演算子
+score >= 80 ? console.log('GREAT!') : console.log('OK...');
+//短く書けるが、可読性も考慮する
+
+const testScore = 60;
+const name = 'Funa';
+
+if (testScore >= 50) {
+  if (name === 'Funa'){
+    console.log('Goood job!!');
+  }
+}
+
+//論理演算子
+// &&　なおかつ（and）
+// ||　もしくは（or）
+// ! 　～ではない（not）
+
+if (testScore >= 50 && name === 'Funa'){
+  console.log('Goood job!!!');
+}
