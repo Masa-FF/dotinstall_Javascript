@@ -115,4 +115,15 @@ if (testScore >= 50) {
 if (testScore >= 50 && name === 'Funa'){
   console.log('Goood job!!!');
 }
->>>>>>> cd50380c065e9b531b7f03a9f2c43139841efbdf
+
+const signal = 'red';
+
+if (signal === 'red'){
+console.log('Stop');
+}
+else if(signal === 'yellow'){
+console.log('Caution');
+}
+else if(signal === 'Green'){
+console.log('Go');
+}
