@@ -71,20 +71,6 @@ console.log(price !== 1000); //true
 console.log(Boolean(0));
 console.log(Boolean('Hello'));
 
-<<<<<<< HEAD
-
-const signal = 'red';
-
-if (signal === 'red'){
-console.log('Stop');
-}
-else if(signal === 'yellow'){
-console.log('Caution');
-}
-else if(signal === 'Green'){
-console.log('Go');
-}
-=======
 const score = 85;
 if (score >= 80){
   console.log('GREAT!');
@@ -116,7 +102,7 @@ if (testScore >= 50 && name === 'Funa'){
   console.log('Goood job!!!');
 }
 
-const signal = 'red';
+const signal = 'green';
 
 if (signal === 'red'){
 console.log('Stop');
@@ -124,6 +110,6 @@ console.log('Stop');
 else if(signal === 'yellow'){
 console.log('Caution');
 }
-else if(signal === 'Green'){
+else if(signal === 'green'){
 console.log('Go');
 }
