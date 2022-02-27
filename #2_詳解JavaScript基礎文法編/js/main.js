@@ -70,3 +70,16 @@ console.log(price !== 1000); //true
 
 console.log(Boolean(0));
 console.log(Boolean('Hello'));
+
+
+const signal = 'red';
+
+if (signal === 'red'){
+console.log('Stop');
+}
+else if(signal === 'yellow'){
+console.log('Caution');
+}
+else if(signal === 'Green'){
+console.log('Go');
+}
