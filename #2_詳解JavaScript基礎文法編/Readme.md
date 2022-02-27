@@ -12,5 +12,9 @@
 #09 変数を使った計算をしてみよう<br>
 #10 データ型について見ていこう<br>
 #11 数字からなる文字列を扱ってみよう<br>
+#12 比較演算子を使ってみよう<br>
+#13 ifで条件分岐をしてみよう<br>
+#14 条件演算子を使ってみよう<br>
+#15 論理演算子を使ってみよう<br>
 
-https://dotinstall.com/lessons/basic_javascript_grammer_v2/52202
+https://dotinstall.com/lessons/basic_javascript_grammer_v2/52216
