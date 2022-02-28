@@ -104,6 +104,8 @@ if (testScore >= 50 && name === 'Funa'){
 
 const signal = 'green';
 
+//#16 switchで条件分岐をしてみよう
+
 if (signal === 'red'){
 console.log('Stop');
 }
@@ -112,4 +114,19 @@ console.log('Caution');
 }
 else if(signal === 'green'){
 console.log('Go');
+}
+
+switch (signal){
+  case 'red':
+    console.log('Stop')
+    break;
+  case 'yellow':
+    console.log('Caution')
+    break;
+  case 'green':
+  case 'blue':
+    console.log('Go')
+    break;
+  default:
+    console.log('WrongSignal')
 }
