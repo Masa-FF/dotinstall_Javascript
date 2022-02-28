@@ -16,5 +16,7 @@
 #13 ifで条件分岐をしてみよう<br>
 #14 条件演算子を使ってみよう<br>
 #15 論理演算子を使ってみよう<br>
+#16 switchで条件分岐をしてみよう<br>
+#17 forを使ったループ処理をしよう<br>
 
 https://dotinstall.com/lessons/basic_javascript_grammer_v2/52216
