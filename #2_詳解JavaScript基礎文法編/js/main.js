@@ -118,15 +118,24 @@ console.log('Go');
 
 switch (signal){
   case 'red':
-    console.log('Stop')
+    console.log('Stop');
     break;
   case 'yellow':
-    console.log('Caution')
+    console.log('Caution');
     break;
   case 'green':
   case 'blue':
-    console.log('Go')
+    console.log('Go');
     break;
   default:
-    console.log('WrongSignal')
+    console.log('WrongSignal');
 }
+
+//#17 forを使ったループ処理をしよう
+
+for (let i=1; i<= 10; i++){
+    // console.log('Hello')
+    console.log(`Hello ${i}`)
+}
+
+// for テンプレートリテラル
