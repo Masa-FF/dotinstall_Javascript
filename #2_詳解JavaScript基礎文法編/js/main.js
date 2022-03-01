@@ -139,3 +139,17 @@ for (let i=1; i<= 10; i++){
 }
 
 // for テンプレートリテラル
+
+//#18 whileを使ったループ処理をしよう
+
+// let HP = 100;
+// while (HP > 0){
+//   console.log(`${HP}HP`);
+//   HP -= 15;
+// }
+
+let HP = 100;
+do {
+  console.log(`${HP}HP`);
+  HP -= 15;
+} while (HP > 0);
