@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FizzBuzz</title>
+</head>
+
+<style>
+   .red {color: rgb(190, 34, 34);}
+</style>
+
+<body>
+  <h1 class="red">FizzBuzzのコーディング</h1>
+  <script>
+    for(let i = 1; i <= 20; i++){
+      if(i % 15 === 0){
+        console.log('FizzBuzz')
+      } else if (i % 5 === 0) { 
+        console.log('Buzz');
+      } else if (i % 3 === 0) {
+        console.log('Fizz');
+      } else {
+        console.log(i);
+      }
+    }
+  </script>
+</body>
+
+</html>

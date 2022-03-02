@@ -153,3 +153,10 @@ do {
   console.log(`${HP}HP`);
   HP -= 15;
 } while (HP > 0);
+
+for (let a = 1; a <= 10; a++){
+  if (a === 4){
+    continue;
+  }
+  console.log(a)
+}
