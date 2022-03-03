@@ -21,3 +21,4 @@ https://dotinstall.com/lessons/basic_javascript_grammer_v2/52216<br>
 #16 switchで条件分岐をしてみよう<br>
 #17 forを使ったループ処理をしよう<br>
 #18 whileを使ったループ処理をしよう<br>
+#19 continue､breakを使ってみよう<br>
