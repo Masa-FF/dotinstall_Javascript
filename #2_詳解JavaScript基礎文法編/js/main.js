@@ -178,9 +178,17 @@ showAd('footerAd');
 
 
 //#22 returnで値を返してみよう
-function sum(a, b, c){
-  return a + b + c;
+// function sum(a, b, c){
+//   return a + b + c;
+// }
+
+// const total = sum(1, 2, 3) + sum(5, 5, 5);
+// console.log(total);
+
+//#23 関数式を使ってみよう
+const sum = function (a, b, c){
+  return(a + b + c);
 }
 
-const total = sum(1, 2, 3) + sum(5, 5, 5);
+const total = sum(1, 2, 3) + sum(10, 10, 10);
 console.log(total);

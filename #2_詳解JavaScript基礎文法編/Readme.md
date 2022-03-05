@@ -25,3 +25,4 @@ https://dotinstall.com/lessons/basic_javascript_grammer_v2/52216
 #20 関数で処理をまとめてみよう<br>
 #21 引数を使ってみよう<br>
 #22 returnで値を返してみよう<br>
+#23 関数式を使ってみよう<br>
