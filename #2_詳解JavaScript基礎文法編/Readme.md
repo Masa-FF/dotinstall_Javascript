@@ -22,3 +22,6 @@ https://dotinstall.com/lessons/basic_javascript_grammer_v2/52216
 #17 forを使ったループ処理をしよう<br>
 #18 whileを使ったループ処理をしよう<br>
 #19 continue､breakを使ってみよう<br>
+#20 関数で処理をまとめてみよう<br>
+#21 引数を使ってみよう<br>
+#22 returnで値を返してみよう<br>
