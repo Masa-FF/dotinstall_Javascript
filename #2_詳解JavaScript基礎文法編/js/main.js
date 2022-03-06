@@ -192,3 +192,4 @@ const sum = function (a, b, c){
 
 const total = sum(1, 2, 3) + sum(10, 10, 10);
 console.log(total);
+
